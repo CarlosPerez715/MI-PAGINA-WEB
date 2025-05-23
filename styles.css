@@ -1,0 +1,24 @@
+
+h1{ color: red;}
+p{color: green }
+body{ background-color: #232323;}
+P1{color: blue;}
+
+body{
+margin: 0;
+font-family: 'segoe ui', sans-serif;
+background-image: url(https://th.bing.com/th/id/R.4d0665db21c0049d328d960acd2db843?rik=pMSKHBVtcXEFhg&pid=ImgRaw&r=0);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+color:aquamarine;
+p{
+  font-size: 3em;
+    text-align: center;
+    margin-bottom: 10px;   
+}
+a {
+   font-size: 3em;
+    text-align: center;
+    margin-bottom: 15px; 
+}}
