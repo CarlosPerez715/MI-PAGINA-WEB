@@ -6,7 +6,7 @@ background-image: url(https://wallpaperaccess.com/full/538948.png);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-
+}
 h1{ color: rgb(255, 0, 128);}
 h1{
     font-size: 2em;
@@ -31,4 +31,4 @@ h2{
 .boton-info:hover{
     background-color: rgb(161, 42, 165);
 }
-}
+
